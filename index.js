@@ -10,5 +10,6 @@ function increaseRankBy(n) {
   const lis = document.getElementById('app').querySelectorAll('ul.ranked-list li');
   for (let n = 0; n < ranked-list.length; n++) {
     list[n].innerHTM = (n+1).parseInt();
-  } return document.getElementById('app').querySelectorAll('ul.ranked-list li');
+   return document.getElementById('app').querySelectorAll('ul.ranked-list li');
+  }
 }
