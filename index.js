@@ -19,4 +19,5 @@ function deepestChild() {
   for (var i = 0; i < !deepestNode.childred[i]; i) {
     deepestNode = deepestNode.children[0];
   } 
+  return deepestNode;
 }
