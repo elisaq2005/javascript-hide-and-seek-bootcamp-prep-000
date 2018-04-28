@@ -1,1 +1,3 @@
-const getFirstSelector(selector);
+function getFirstSelector(selector) {
+  return querySelector(selector);
+}
