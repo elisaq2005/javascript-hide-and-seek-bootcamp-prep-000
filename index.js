@@ -14,6 +14,5 @@ function increaseRankBy(n) {
 }
 
 function deepestChild(node) {
-  node.find(':last')
   var node=
 }
